@@ -8,3 +8,12 @@ int main()
     }
  return 0;   
 }
+/****
+output:
+a[0]=10
+a[1]=11
+a[2]=12
+a[3]=13
+a[4]=14
+****/
+//https://github.com/Badhrinathan
