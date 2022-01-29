@@ -1,0 +1,17 @@
+#C programs supports 
+i)for loop 
+ii)while loop - (Entry controlled loop)
+iii)do while loop -(Exit controlled loop)
+vi)nested loop
+
+For a proper loop we need to use three things as common 
+1)Intilization
+2)Condition
+3)Increment/Decrement
+
+#While Loop
+The While loop geeting executed til the condition being tested remins true
+The while must test a condition eventually becomes false,otherwise the loop would keep getting executed forever,indefinitely
+
+
+
